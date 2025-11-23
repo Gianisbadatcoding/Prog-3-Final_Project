@@ -115,7 +115,13 @@ try {
                         </div>
                     </div>
                     <div class="credential-item">
-                        <span class="credential-role">Employee</span>
+                        <span class="credential-role">Employee1</span>
+                        <div class="credential-details">
+                            <code>employee1</code> / <code>employee123</code>
+                        </div>
+                    </div>
+                    <div class="credential-item">
+                        <span class="credential-role">Employee2</span>
                         <div class="credential-details">
                             <code>employee1</code> / <code>employee123</code>
                         </div>
