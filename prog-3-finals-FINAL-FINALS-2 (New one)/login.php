@@ -123,7 +123,7 @@ try {
                     <div class="credential-item">
                         <span class="credential-role">Employee2</span>
                         <div class="credential-details">
-                            <code>employee1</code> / <code>employee123</code>
+                            <code>employee2</code> / <code>employee123</code>
                         </div>
                     </div>
                 </div>
